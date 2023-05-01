@@ -222,7 +222,7 @@
       "description": "A Pink & Purple Demon Slayer Theme",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1041803590563545199/1059418977991929886/1154476.png?width=1193&height=671"
+      "imageURL": "https://media.tenor.com/M6ZYaFzOtj0AAAAC/sasuke.gif"
     },
   ]
 }
